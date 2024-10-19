@@ -1,0 +1,7 @@
+my_string = input('Hello its me ')
+print('how are you',my_string)
+print('Hello its me'.upper())
+print('Hello its me'.lower())
+print('Hello its me'.replace(' ','' ))
+print(my_string[0])
+print(my_string[-1])
